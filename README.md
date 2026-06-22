@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Meli Christian 👋
+Full Stack Developer | Vue | Node.js | MongoDB
 
-<!--
-**melichris/melichris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build scalable web apps and security-focused systems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Frontend: Vue 3, HTML, CSS, JavaScript,React Js, PHP, Java,Python
+- Backend: Node.js, Express
+- Database: MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Sentinel Security Platform
+- E-commerce Store (Vue + Node)
+- Exam malpractice detection system
+
+## 📫 Contact
+- Email: melichristian51@gmail.com
