@@ -15,4 +15,5 @@ Backend: Node.js, Express
 Database: MongoDB  
 
 ## 🌍 Live Projects
-(Add deployed links here)
+cmlasentinelle.com
+unitmindintelligence.com
