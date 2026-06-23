@@ -1,17 +1,18 @@
-# Hi, I'm Meli Christian 👋
-Full Stack Developer | Vue | Node.js | MongoDB
+# 👋 Hi, I'm Christian
 
-🚀 I build scalable web apps and security-focused systems.
+🚀 Full Stack Developer (Vue | Node.js | MongoDB)
 
-## 🔧 Tech Stack
-- Frontend: Vue 3, HTML, CSS, JavaScript,React Js, PHP, Java,Python
-- Backend: Node.js, Express
-- Database: MongoDB, MySQL
+I build scalable web apps and security-focused platforms.
 
-## 📌 Projects
+## 🔥 Featured Projects
 - Sentinel Security Platform
-- E-commerce Store (Vue + Node)
-- Exam malpractice detection system
+- E-commerce App (Vue + Express)
+- REST API System
 
-## 📫 Contact
-- Email: melichristian51@gmail.com
+## 🛠 Tech Stack
+Frontend: Vue 3, CSS, JS  
+Backend: Node.js, Express  
+Database: MongoDB  
+
+## 🌍 Live Projects
+(Add deployed links here)
