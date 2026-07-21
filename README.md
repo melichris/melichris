@@ -12,7 +12,7 @@ I'm a full-stack developer based in **Douala, Cameroon 🇨🇲**, currently wor
 - 🛡️ Recently shipped **Sentinel Lite**, a Vue 3 security dashboard with JWT auth, RBAC, and audit logging
 - 🌱 Currently deep in TypeScript, NestJS, and PostgreSQL
 - 💬 Ask me about Vue.js, auth systems (JWT/2FA), or Docker deployment
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: melichris.work@gmail.com
 
 ---
 
