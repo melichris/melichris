@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Meli Christian
 
-### Junior Full-Stack Developer | Building DevOps tooling & security-focused web apps
+### Senior Full-Stack Developer | Building DevOps tooling & security-focused web apps
 
 ---
 
