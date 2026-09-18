@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Meli Christian
+# Hi there 👋 I'm Meli Christian.
 
 ### Full-Stack Developer & UI/UX Designer | Building scalable web apps & CI/CD pipelines
 
