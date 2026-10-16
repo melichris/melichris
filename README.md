@@ -55,7 +55,7 @@ I'm a full-stack developer based in **Douala, Cameroon 🇨🇲**, currently wor
 
 ## 📊 GitHub Stats
 
-![Meli's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Meli's GitHub stats](https://github-readme-stats.vercel.app/api?username=melichris&show_icons=true&theme=tokyonight)
 
 ---
 
