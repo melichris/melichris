@@ -62,4 +62,4 @@ I'm a full-stack developer based in **Douala, Cameroon 🇨🇲**, currently wor
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meli-christian/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]((https://x.com/ChristianM65336))
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ChristianM65336)
